@@ -1,0 +1,10 @@
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD XML Forms Updater\AAAD XML Forms Updater\bin\Debug\AAAD XML Forms Updater.exe
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD XML Forms Updater\AAAD XML Forms Updater\bin\Debug\AAAD XML Forms Updater.pdb
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD XML Forms Updater\AAAD XML Forms Updater\bin\Debug\AAAD XML Forms Updater.xml
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD XML Forms Updater\AAAD XML Forms Updater\obj\x86\Debug\AAAD_XML_Forms_Updater.Agreement.resources
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD XML Forms Updater\AAAD XML Forms Updater\obj\x86\Debug\AAAD_XML_Forms_Updater.UpgradingForms.resources
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD XML Forms Updater\AAAD XML Forms Updater\obj\x86\Debug\AAAD_XML_Forms_Updater.Resources.resources
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD XML Forms Updater\AAAD XML Forms Updater\obj\x86\Debug\AAAD XML Forms Updater.vbproj.GenerateResource.Cache
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD XML Forms Updater\AAAD XML Forms Updater\obj\x86\Debug\AAAD XML Forms Updater.exe
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD XML Forms Updater\AAAD XML Forms Updater\obj\x86\Debug\AAAD XML Forms Updater.xml
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD XML Forms Updater\AAAD XML Forms Updater\obj\x86\Debug\AAAD XML Forms Updater.pdb

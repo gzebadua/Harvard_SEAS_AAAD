@@ -1,0 +1,14 @@
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\obj\x86\Debug\AAAD_Info_Exporter.Resources.resources
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\obj\x86\Debug\AAAD_Info_Exporter.Exporter.resources
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\bin\Debug\AAAD Info Exporter.exe
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\bin\Debug\AAAD Info Exporter.pdb
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\bin\Debug\AAAD Info Exporter.xml
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\obj\x86\Debug\AAAD Info Exporter.exe
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\obj\x86\Debug\AAAD Info Exporter.xml
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD enhancements v3\AAAD Info Exporter\obj\x86\Debug\AAAD Info Exporter.pdb
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD\AAAD Info Exporter\obj\x86\Debug\AAAD Info Exporter.exe
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD\AAAD Info Exporter\obj\x86\Debug\AAAD Info Exporter.xml
+C:\Users\admgzebadua\Dropbox\Harvard\AAAD\AAAD Info Exporter\obj\x86\Debug\AAAD Info Exporter.pdb
